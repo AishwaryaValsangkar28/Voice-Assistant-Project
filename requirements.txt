@@ -1,0 +1,10 @@
+SpeechRecognition~=3.14.3
+pyttsx3~=2.99
+requests~=2.32.5
+wikipedia~=1.4.0
+openai-whisper~=20250625
+ecapture~=2.0.2
+googletrans~=3.1.0a0
+loguru~=0.7.3
+PyAudio~=0.2.14
+pocketsphinx~=5.0.4
